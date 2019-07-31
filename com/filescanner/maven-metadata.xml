@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+  <plugins>
+    <plugin>
+      <name>filescanner-maven-plugin</name>
+      <prefix>filescanner</prefix>
+      <artifactId>filescanner-maven-plugin</artifactId>
+    </plugin>
+  </plugins>
+</metadata>
